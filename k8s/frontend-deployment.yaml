@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: YOUR_DOCKERHUB_USERNAME/buykaro-frontend:latest
+        image: swarupsinh10/buykaro-frontend:latest
         ports:
         - containerPort: 3000
